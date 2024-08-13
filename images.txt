@@ -1,6 +1,7 @@
 ubuntu:20.04
 jenkins/jenkins:2.452.3-lts-jdk17
 # --platform=linux/arm64 ubuntu:20.04
+--platform=linux/amd64 python:3.12-alpine
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
