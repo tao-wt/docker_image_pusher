@@ -11,7 +11,7 @@
 # kubeguide/guestbook-php-frontend:latest
 # --platform=linux/amd64 ollama/ollama
 docker.io/valkey/valkey:9
-ghcr.io/immich-app/immich-server:v2.7.5
+ghcr.io/immich-app/immich-server:v3.0.2
 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
-ghcr.io/immich-app/immich-machine-learning:v2.7.5
+ghcr.io/immich-app/immich-machine-learning:v3.0.2
 # ghcr.io/umputun/stash
